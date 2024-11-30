@@ -110,8 +110,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any queries, feel free to reach out:
-- **Email**: your-chanduabbireddy247@gmail.com
+- **Email**: chanduabbireddy247@gmail.com
 - **GitHub**: [venkat-0706](https://github.com/venkat-0706)
+- **Linkedin**: [chandu0706](https://www.linkedin.com/in/chandu0706/).
 ```
 
 This template is modular, informative, and user-friendly, making it perfect for a GitHub repository. Adjust details like the repository URL and contact information as needed.
