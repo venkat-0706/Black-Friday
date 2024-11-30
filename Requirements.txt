@@ -1,0 +1,35 @@
+Requirements for Black Friday Sales Analysis  
+
+1. Dataset:  
+   - Sales transaction data, including customer demographics (age, gender, marital status), products purchased, and purchase amounts.  
+   - Data fields like product categories, city tier, and occupation are essential for deeper insights.  
+
+2. Software and Tools:  
+   - Python: Programming language for data analysis.  
+   - Libraries:
+     - Pandas: Data cleaning and manipulation.  
+     - NumPy: Numerical computations.  
+     - Matplotlib/Seaborn: Data visualization.  
+     - Scikit-learn: For advanced analysis or predictive modeling (if needed).  
+     - Jupyter Notebook: For interactive analysis and visualization.  
+
+3. Environment Setup:  
+   - Python 3.x installed.  
+   - Virtual environment or dependency management tools like `pip` or `conda`.  
+
+4. Data Preprocessing :  
+   - Cleaning: Handle missing or inconsistent values.  
+   - Transformation: Convert categorical data to a usable format.  
+   - Aggregation: Combine or summarize data based on relevant features.  
+
+5. Skills :  
+   - Knowledge of data preprocessing and wrangling.  
+   - Experience with data visualization techniques.  
+   - Understanding of basic statistics for interpreting trends and insights.  
+
+6. Objectives :  
+   - Analyze trends by age, gender, marital status, and occupation.  
+   - Identify high-performing products and customer segments.  
+   - Derive actionable insights for strategic decision-making.  
+
+This setup ensures a comprehensive and effective analysis of Black Friday sales data.
