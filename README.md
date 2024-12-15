@@ -1,7 +1,7 @@
 
 # Black Friday Sales Analysis
 
-This project provides an in-depth analysis of Black Friday sales data. The analysis delves into key customer demographics, purchasing behaviors, and product trends to uncover insights that can guide strategic decision-making. By exploring multiple dimensions of the data, this project aims to enhance understanding of consumer preferences during Black Friday sales.
+This project provides an in-depth analysis of Black Friday sales data. The analysis delves into key customer demographics, purchasing behaviors, and product trends to uncover insights that can guide strategic decision-making. By exploring multiple dimensions of the data, this project aims to enhance understanding of consumer preferences during Black Friday sales. 
 
 ## Table of Contents
 - [Overview](#overview)
